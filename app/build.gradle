@@ -40,9 +40,4 @@ android {
         jniLibs {
             useLegacyPackaging = true
         }
-    }
-}
-
-dependencies {
-    implementation project(':Bcore')
-}
+    
